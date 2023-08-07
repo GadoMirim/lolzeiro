@@ -1,6 +1,6 @@
 body{
     
-    background-image: url("/home/escola/lol/images/fundo.png");
+    background-image: url("/home/escola/lol/images/fundooriginal.png");
     background-attachment: fixed;
 } 
 
@@ -29,3 +29,57 @@ body{
   .container2{
   display:flex;
   }
+
+  .container3 div{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container3{
+  display:flex;
+  }
+
+  .container4 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container4{
+  display:flex;
+  }
+
+  .container5 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:250px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container5{
+  display:flex;
+  }
+
+  .container6 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container6{
+  display:flex;
+  }
+
+ 
