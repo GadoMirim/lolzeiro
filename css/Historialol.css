@@ -2,6 +2,7 @@ body{
     
     background-image: url("/images/fundooriginal.png");
     background-attachment: fixed;
+    background-color: black;
 } 
 
 .container div{
