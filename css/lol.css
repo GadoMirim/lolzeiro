@@ -4,7 +4,7 @@ background: linear-gradient(to bottom, rgba(87,10,90,1) 15%, rgba(120,94,196,1) 
 }
 
 .container div{
-  width: 650px;
+  width: 450px;
   height: 250px;
   display: flex;
   margin:90px;
