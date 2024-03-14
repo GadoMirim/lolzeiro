@@ -43,15 +43,4 @@ display:flex;
 }
 
 
-.container4 div{
-
-  display: flex;
-  margin:90px;
-  align-items:center;
-  justify-content:center;
-}
-
-.container4{
-display:flex;
-}
 
